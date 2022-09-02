@@ -1,0 +1,1 @@
+sap.ui.require(["sync/zca05demo2/test/integration/AllJourneys"],function(){QUnit.config.autostart=false;QUnit.start()});                                                                                                                                       
